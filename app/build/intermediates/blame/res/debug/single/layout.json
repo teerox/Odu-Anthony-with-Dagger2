@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\car_owner_list_item.xml",
+        "source": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\src\\main\\res\\layout\\car_owner_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\filter_list_item.xml",
+        "source": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\src\\main\\res\\layout\\filter_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_filter.xml",
+        "source": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\src\\main\\res\\layout\\fragment_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_car_owner.xml",
+        "source": "C:\\Users\\TONY\\Android\\OduAnthony\\app\\src\\main\\res\\layout\\fragment_car_owner.xml"
+    }
+]

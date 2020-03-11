@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\27c499637180f4e28d39c05fe4476537\databinding-adapters-3.6.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a7d9b8867a8dac0c9064e1ae4ce6f438\databinding-runtime-3.6.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ibrahimsn98:CirclesLoadingView:1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a5f39e7666bc3e168825501851b60a36\jetified-CirclesLoadingView-1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\444a841fed15af86600d4d3fd82cd856\jetified-lottie-3.3.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-android-support:2.23.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\221cd182379c8194c2c190301046be90\jetified-dagger-android-support-2.23.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1fbf1fcc7ceb2f9858685402ae9c2ce8\legacy-preference-v14-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4a4bffc21f07c71f6e0172b4db7b2f69\preference-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\8b83eb9cadf8252b3a08fb91509da9bd\navigation-ui-ktx-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\93951ee5ad0ae26586ad5482dc172f4e\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\19a91f36eb0488979bfd4cec5347f821\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1616b42d08c28ebaa1a5b4a8a23c1458\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c8cbdeae5e450529f0246a967ac31e8\navigation-fragment-ktx-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\44864c11accb0882cd3371f13b48469a\jetified-fragment-ktx-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\d5e248bce192a884e21086fe5f5308cc\navigation-runtime-ktx-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\95d5a21760e6c3f89c94dd4e8c425c56\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\92d8de5bc824669716b3b7c460ed4e81\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a89c80050249656265ab2554534e64ea\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\545b7311fab5732d69e8b09d0e74495e\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:3.0.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c373f06723e25af9f1d4b676b8e2b67b\jetified-circleimageview-3.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\bd779000c423a0dab28d6edecdca9238\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4d0aac8eeac440ffb2abea511bbbc7ba\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.mindorks.android:prdownloader:0.6.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a9fb05bc52818a21ac5ccf2e92e755b6\jetified-prdownloader-0.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.dagger:dagger-android:2.23.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\249808e61cdd59a81398b24628ee31b7\jetified-dagger-android-2.23.2\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\cebe3da849a8006928ae622d52bf2d3a\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\818236114a972644d2c890d4de5b8f47\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\e55cf274850855ad48f9c868819faf95\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\b8dc0b378e6bc6120b3000ff77a235b8\jetified-viewbinding-3.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\e6a303d71efa381b7b54ffbc1cbb8940\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c634a85d68f5d710538c09d671f27c4\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\44342359345b74a4fc3e420e4c0be546\navigation-fragment-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\3f78bc85f8c5948345ce6f6309b4556a\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9b554ac5607061e197be9799eb7c4c73\navigation-runtime-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\137de052e6aff8d0795b06d790c9e190\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\69e9234821dc586bdf6d487315a5610e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\5becce2dfd814f5a6e5df317c79bd446\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c8515da6ac3764ec1d243a4aa59ffc5b\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\fd8e9106d7f3498e5bc14a09cc2c4971\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1314d96026fd08a5cfa739895f0eeb71\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\de4af26c5458c4d8a86bcbddcd4c3afc\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6d9041e941b02d1b4f5c433cf72fb8fc\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha04] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\ca192e06377a509d80822bbdfc6e2063\drawerlayout-1.1.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c9d7cdd3466a65dfe9cf45d69938ae4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\8852a057d9dc7140cd5fbe0b06027d08\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9b73e870e882716a735a6d0bbe6e54c4\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\07ca8ff6e77a911818d7f42279f10af7\customview-1.1.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\991bbf7fe81a696ec3da1b49384d9548\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\7deeafa92a7b39fd8a2c836ebcc856d7\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\b7629506b6be738afaf9c7d4fe00373d\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\32c9e68b0e61ec116dc0e3427c2873ae\navigation-common-ktx-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\80789fc3eacb16e0cfe1286bcf89864c\navigation-common-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\18db4d0ddcc26228c598d719b043b9bd\core-1.3.0-alpha02\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9357896d3e5561f006d521d2518126d7\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\697890f1b6bb74b0721ba55c316821d7\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\d30666d210f9f4475a8b1260a4852d72\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\ae0027b33ebf0cb40976dd62b739d448\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\0b95304c4336fe82345f6e559ff1e10d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\0151af3f404db71afa2059567ed50416\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c9c57a50659803fc002facfab158ae1f\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\7a52e3e964172e2f351081e75417b6d4\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\55f7c13367cb9f0933c96d0be2e24bf8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2a79d9efad010f06f0b8b6c1d9811f58\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2d3d1aa1eebe2a5e4c7ccec001bb80bd\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\cf2e9f74d7c0b7557e1177e80b559c35\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\62806acba0f7a4548a24d935e1ccbf70\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\584a16153cb60400e5d283ad23e790d3\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\28f3b239088b3f11e40e51e4baa18ab2\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2d7fcc615f76e0c33921dc83b675355b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\f76cb27d9fb4d84ce3e693b642902d40\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:11:5-34:19
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\444a841fed15af86600d4d3fd82cd856\jetified-lottie-3.3.1\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\444a841fed15af86600d4d3fd82cd856\jetified-lottie-3.3.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\19a91f36eb0488979bfd4cec5347f821\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\19a91f36eb0488979bfd4cec5347f821\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a89c80050249656265ab2554534e64ea\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a89c80050249656265ab2554534e64ea\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\545b7311fab5732d69e8b09d0e74495e\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\545b7311fab5732d69e8b09d0e74495e\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c373f06723e25af9f1d4b676b8e2b67b\jetified-circleimageview-3.0.2\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c373f06723e25af9f1d4b676b8e2b67b\jetified-circleimageview-3.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\818236114a972644d2c890d4de5b8f47\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\818236114a972644d2c890d4de5b8f47\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\18db4d0ddcc26228c598d719b043b9bd\core-1.3.0-alpha02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\18db4d0ddcc26228c598d719b043b9bd\core-1.3.0-alpha02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\697890f1b6bb74b0721ba55c316821d7\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\697890f1b6bb74b0721ba55c316821d7\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\0b95304c4336fe82345f6e559ff1e10d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\0b95304c4336fe82345f6e559ff1e10d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\18db4d0ddcc26228c598d719b043b9bd\core-1.3.0-alpha02\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:14:9-40
+receiver#com.example.oduanthony.networkUtlis.NetworkChangeReceiver
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:21:13-50
+	android:exported
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:21:51-74
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:20:13-63
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.INPUT_METHOD_CHANGED
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:23:17-78
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:23:25-76
+action#android.intent.action.INPUT_METHOD_CHANGED
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:24:17-85
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:24:25-82
+activity#com.example.oduanthony.MainActivity
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\27c499637180f4e28d39c05fe4476537\databinding-adapters-3.6.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\27c499637180f4e28d39c05fe4476537\databinding-adapters-3.6.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a7d9b8867a8dac0c9064e1ae4ce6f438\databinding-runtime-3.6.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a7d9b8867a8dac0c9064e1ae4ce6f438\databinding-runtime-3.6.1\AndroidManifest.xml:22:5-44
+MERGED from [com.github.ibrahimsn98:CirclesLoadingView:1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a5f39e7666bc3e168825501851b60a36\jetified-CirclesLoadingView-1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ibrahimsn98:CirclesLoadingView:1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a5f39e7666bc3e168825501851b60a36\jetified-CirclesLoadingView-1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\444a841fed15af86600d4d3fd82cd856\jetified-lottie-3.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.3.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\444a841fed15af86600d4d3fd82cd856\jetified-lottie-3.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.dagger:dagger-android-support:2.23.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\221cd182379c8194c2c190301046be90\jetified-dagger-android-support-2.23.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.23.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\221cd182379c8194c2c190301046be90\jetified-dagger-android-support-2.23.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1fbf1fcc7ceb2f9858685402ae9c2ce8\legacy-preference-v14-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1fbf1fcc7ceb2f9858685402ae9c2ce8\legacy-preference-v14-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4a4bffc21f07c71f6e0172b4db7b2f69\preference-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4a4bffc21f07c71f6e0172b4db7b2f69\preference-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\8b83eb9cadf8252b3a08fb91509da9bd\navigation-ui-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\8b83eb9cadf8252b3a08fb91509da9bd\navigation-ui-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\93951ee5ad0ae26586ad5482dc172f4e\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\93951ee5ad0ae26586ad5482dc172f4e\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\19a91f36eb0488979bfd4cec5347f821\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\19a91f36eb0488979bfd4cec5347f821\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1616b42d08c28ebaa1a5b4a8a23c1458\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1616b42d08c28ebaa1a5b4a8a23c1458\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c8cbdeae5e450529f0246a967ac31e8\navigation-fragment-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c8cbdeae5e450529f0246a967ac31e8\navigation-fragment-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\44864c11accb0882cd3371f13b48469a\jetified-fragment-ktx-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\44864c11accb0882cd3371f13b48469a\jetified-fragment-ktx-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\d5e248bce192a884e21086fe5f5308cc\navigation-runtime-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\d5e248bce192a884e21086fe5f5308cc\navigation-runtime-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\95d5a21760e6c3f89c94dd4e8c425c56\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\95d5a21760e6c3f89c94dd4e8c425c56\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\92d8de5bc824669716b3b7c460ed4e81\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\92d8de5bc824669716b3b7c460ed4e81\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a89c80050249656265ab2554534e64ea\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a89c80050249656265ab2554534e64ea\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\545b7311fab5732d69e8b09d0e74495e\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\545b7311fab5732d69e8b09d0e74495e\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.0.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c373f06723e25af9f1d4b676b8e2b67b\jetified-circleimageview-3.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c373f06723e25af9f1d4b676b8e2b67b\jetified-circleimageview-3.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\bd779000c423a0dab28d6edecdca9238\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\bd779000c423a0dab28d6edecdca9238\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4d0aac8eeac440ffb2abea511bbbc7ba\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4d0aac8eeac440ffb2abea511bbbc7ba\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.mindorks.android:prdownloader:0.6.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a9fb05bc52818a21ac5ccf2e92e755b6\jetified-prdownloader-0.6.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.mindorks.android:prdownloader:0.6.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\a9fb05bc52818a21ac5ccf2e92e755b6\jetified-prdownloader-0.6.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.dagger:dagger-android:2.23.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\249808e61cdd59a81398b24628ee31b7\jetified-dagger-android-2.23.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.23.2] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\249808e61cdd59a81398b24628ee31b7\jetified-dagger-android-2.23.2\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\cebe3da849a8006928ae622d52bf2d3a\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\cebe3da849a8006928ae622d52bf2d3a\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\818236114a972644d2c890d4de5b8f47\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\818236114a972644d2c890d4de5b8f47\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\e55cf274850855ad48f9c868819faf95\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\e55cf274850855ad48f9c868819faf95\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\b8dc0b378e6bc6120b3000ff77a235b8\jetified-viewbinding-3.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\b8dc0b378e6bc6120b3000ff77a235b8\jetified-viewbinding-3.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\e6a303d71efa381b7b54ffbc1cbb8940\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\e6a303d71efa381b7b54ffbc1cbb8940\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c634a85d68f5d710538c09d671f27c4\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c634a85d68f5d710538c09d671f27c4\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\44342359345b74a4fc3e420e4c0be546\navigation-fragment-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\44342359345b74a4fc3e420e4c0be546\navigation-fragment-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\3f78bc85f8c5948345ce6f6309b4556a\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\3f78bc85f8c5948345ce6f6309b4556a\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9b554ac5607061e197be9799eb7c4c73\navigation-runtime-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9b554ac5607061e197be9799eb7c4c73\navigation-runtime-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\137de052e6aff8d0795b06d790c9e190\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\137de052e6aff8d0795b06d790c9e190\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\69e9234821dc586bdf6d487315a5610e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\69e9234821dc586bdf6d487315a5610e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\5becce2dfd814f5a6e5df317c79bd446\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\5becce2dfd814f5a6e5df317c79bd446\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c8515da6ac3764ec1d243a4aa59ffc5b\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c8515da6ac3764ec1d243a4aa59ffc5b\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\fd8e9106d7f3498e5bc14a09cc2c4971\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\fd8e9106d7f3498e5bc14a09cc2c4971\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1314d96026fd08a5cfa739895f0eeb71\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\1314d96026fd08a5cfa739895f0eeb71\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\de4af26c5458c4d8a86bcbddcd4c3afc\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\de4af26c5458c4d8a86bcbddcd4c3afc\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6d9041e941b02d1b4f5c433cf72fb8fc\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6d9041e941b02d1b4f5c433cf72fb8fc\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha04] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\ca192e06377a509d80822bbdfc6e2063\drawerlayout-1.1.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha04] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\ca192e06377a509d80822bbdfc6e2063\drawerlayout-1.1.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c9d7cdd3466a65dfe9cf45d69938ae4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\6c9d7cdd3466a65dfe9cf45d69938ae4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\8852a057d9dc7140cd5fbe0b06027d08\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\8852a057d9dc7140cd5fbe0b06027d08\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9b73e870e882716a735a6d0bbe6e54c4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9b73e870e882716a735a6d0bbe6e54c4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\07ca8ff6e77a911818d7f42279f10af7\customview-1.1.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\07ca8ff6e77a911818d7f42279f10af7\customview-1.1.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\991bbf7fe81a696ec3da1b49384d9548\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\991bbf7fe81a696ec3da1b49384d9548\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\7deeafa92a7b39fd8a2c836ebcc856d7\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\7deeafa92a7b39fd8a2c836ebcc856d7\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\b7629506b6be738afaf9c7d4fe00373d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\b7629506b6be738afaf9c7d4fe00373d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\32c9e68b0e61ec116dc0e3427c2873ae\navigation-common-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\32c9e68b0e61ec116dc0e3427c2873ae\navigation-common-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\80789fc3eacb16e0cfe1286bcf89864c\navigation-common-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0-alpha03] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\80789fc3eacb16e0cfe1286bcf89864c\navigation-common-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\18db4d0ddcc26228c598d719b043b9bd\core-1.3.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\18db4d0ddcc26228c598d719b043b9bd\core-1.3.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9357896d3e5561f006d521d2518126d7\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\9357896d3e5561f006d521d2518126d7\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\697890f1b6bb74b0721ba55c316821d7\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\697890f1b6bb74b0721ba55c316821d7\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\d30666d210f9f4475a8b1260a4852d72\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\d30666d210f9f4475a8b1260a4852d72\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\ae0027b33ebf0cb40976dd62b739d448\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\ae0027b33ebf0cb40976dd62b739d448\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\0b95304c4336fe82345f6e559ff1e10d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\0b95304c4336fe82345f6e559ff1e10d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\0151af3f404db71afa2059567ed50416\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\0151af3f404db71afa2059567ed50416\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c9c57a50659803fc002facfab158ae1f\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\c9c57a50659803fc002facfab158ae1f\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\7a52e3e964172e2f351081e75417b6d4\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\7a52e3e964172e2f351081e75417b6d4\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\55f7c13367cb9f0933c96d0be2e24bf8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\55f7c13367cb9f0933c96d0be2e24bf8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2a79d9efad010f06f0b8b6c1d9811f58\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2a79d9efad010f06f0b8b6c1d9811f58\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2d3d1aa1eebe2a5e4c7ccec001bb80bd\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2d3d1aa1eebe2a5e4c7ccec001bb80bd\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\cf2e9f74d7c0b7557e1177e80b559c35\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\cf2e9f74d7c0b7557e1177e80b559c35\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\62806acba0f7a4548a24d935e1ccbf70\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\62806acba0f7a4548a24d935e1ccbf70\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\584a16153cb60400e5d283ad23e790d3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\584a16153cb60400e5d283ad23e790d3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\28f3b239088b3f11e40e51e4baa18ab2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\28f3b239088b3f11e40e51e4baa18ab2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2d7fcc615f76e0c33921dc83b675355b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\2d7fcc615f76e0c33921dc83b675355b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\f76cb27d9fb4d84ce3e693b642902d40\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\f76cb27d9fb4d84ce3e693b642902d40\cardview-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TONY\Android\OduAnthony\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\TONY\.gradle\caches\transforms-2\files-2.1\4c3a6ebec26b2194c88dc7aadee7a22f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
